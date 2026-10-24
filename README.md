@@ -1,4 +1,4 @@
-# Zero-1-Decoder-Display
+# Zero 1 Decoder Display
 
 ![Zero 1 Decoder Display](/Photos/Zero-1-Decoder-Display.jpg)
 
